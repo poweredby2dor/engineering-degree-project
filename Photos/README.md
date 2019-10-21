@@ -15,5 +15,4 @@
 <img src="Photos/IMG_3539.JPG" height=300> <img src="Photos/IMG_3547.JPG" height=300>
 <img src="Photos/IMG_3582.JPG" height=300> <img src="Photos/IMG_3586.JPG" height=300>
 <img src="Photos/IMG_3650.JPG" height=300> <img src="Photos/IMG_3658.JPG" height=300>
-<img src="Photos/IMG_3687.JPG" height=300>
-<img src="Photos/IMG_3702.JPG" height=500>
+<img src="Photos/IMG_3687.JPG" height=300> <img src="Photos/IMG_3702.JPG" height=300>
