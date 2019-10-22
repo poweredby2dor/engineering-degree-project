@@ -11,3 +11,7 @@ The project consists of a mixing container, three dosing sistems for two liquid 
 The code:
 
 ***to be edited***
+
+Visit the [/Arduino/v1.6licenta.ino](https://github.com/poweredby2dor/engineering-degree-project/blob/master/Arduino/v1.6licenta.ino "/Arduino/v1.6licenta.ino") file to see the code written and loaded into the project.
+
+Visit the [/Photos](https://github.com/poweredby2dor/engineering-degree-project/tree/master/Photos "/Photos") folder to see a picture timeline of the project.
